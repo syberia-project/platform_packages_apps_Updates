@@ -13,7 +13,7 @@ import android.view.animation.Interpolator;
 import android.widget.FrameLayout;
 import android.widget.LinearLayout;
 
-import com.aospextended.ota.R;
+import com.syberia.ota.R;
 
 import net.cachapa.expandablelayout.util.FastOutSlowInInterpolator;
 
